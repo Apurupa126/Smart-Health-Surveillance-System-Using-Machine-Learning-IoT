@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Health Monitoring</title>
+</head>
+<body>
+
+<h1>📋 Live Health Monitoring</h1>
+
+<h2>{{ result }}</h2>
+
+<h3>🔍 Input Values</h3>
+<ul>
+    {% for key, value in input_values.items %}
+        <li><b>{{ key }}</b>: {{ value }}</li>
+    {% endfor %}
+</ul>
+
+<h3>🚨 Alerts</h3>
+<ul>
+    {% for alert in alerts %}
+        <li>{{ alert }}</li>
+    {% endfor %}
+</ul>
+
+</body>
+</html>
