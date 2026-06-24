@@ -7,9 +7,8 @@ An IoT-enabled healthcare monitoring system that tracks heart rate, SpO₂, and 
 
 ## Technologies
 - ESP32
-- MAX30102
-- MLX90614
-- R305 Fingerprint Sensor
+- MAX30100
+- DSB1800
 - Python
 - Django
 - Machine Learning
@@ -17,7 +16,6 @@ An IoT-enabled healthcare monitoring system that tracks heart rate, SpO₂, and 
 
 ## Features
 - Real-time health monitoring
-- Fingerprint authentication
 - Machine learning-based analysis
 - Secure patient identification
 - Smart healthcare dashboard
