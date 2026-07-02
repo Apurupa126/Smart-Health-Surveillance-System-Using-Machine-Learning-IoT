@@ -27,7 +27,7 @@ The system collects health data using sensors connected to an **ESP32** microcon
 |---------------|------------------|
 
 <p align="center">
-  <img src="hardware.jpeg" width="600">
+  <img src="hardware.jpeg" width="120">
 </p>
 
 # 🏗 System Architecture
