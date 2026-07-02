@@ -26,9 +26,9 @@ The system collects health data using sensors connected to an **ESP32** microcon
 | Hardware Setup | Django Dashboard |
 |---------------|------------------|
 
-
-![Hardware Setup](hardware.jpeg)
----
+<p align="center">
+  <img src="hardware.jpeg" width="600">
+</p>
 
 # 🏗 System Architecture
 
